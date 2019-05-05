@@ -1,0 +1,22 @@
+{
+  "name": "ml-assignment3",
+  "version": "1.0.0",
+  "description": "clusters for ml3",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -a localhost -p 8080 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miopio/ml-assignment3.git"
+  },
+  "author": "Mio Akasako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miopio/ml-assignment3/issues"
+  },
+  "homepage": "https://github.com/miopio/ml-assignment3#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
